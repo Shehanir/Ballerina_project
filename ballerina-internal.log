@@ -1,0 +1,15 @@
+[2019-02-12 14:38:51,642] WARN  {org.wso2.transport.http.netty.contractimpl.sender.TargetHandler} - Exception occurred in TargetHandler : Connection reset by peer  
+[2019-02-12 14:38:51,654] ERROR {org.wso2.transport.http.netty.contractimpl.sender.states.RequestCompleted} - Remote host closed the connection before initiating inbound response  
+[2019-02-12 14:51:23,016] WARN  {org.wso2.transport.http.netty.contractimpl.sender.TargetHandler} - Exception occurred in TargetHandler : Connection reset by peer  
+[2019-02-12 14:51:23,019] ERROR {org.wso2.transport.http.netty.contractimpl.sender.states.RequestCompleted} - Remote host closed the connection before initiating inbound response  
+[2019-02-12 14:54:17,319] WARN  {org.wso2.transport.http.netty.contractimpl.sender.TargetHandler} - Exception occurred in TargetHandler : Connection reset by peer  
+[2019-02-12 14:54:17,332] ERROR {org.wso2.transport.http.netty.contractimpl.sender.states.RequestCompleted} - Remote host closed the connection before initiating inbound response  
+[2019-02-12 14:57:19,084] WARN  {org.wso2.transport.http.netty.contractimpl.sender.TargetHandler} - Exception occurred in TargetHandler : Connection reset by peer  
+[2019-02-12 14:57:19,088] ERROR {org.wso2.transport.http.netty.contractimpl.sender.states.RequestCompleted} - Remote host closed the connection before initiating inbound response  
+[2019-02-12 15:01:04,177] WARN  {org.wso2.transport.http.netty.contractimpl.sender.TargetHandler} - Exception occurred in TargetHandler : Connection reset by peer  
+[2019-02-12 15:01:04,190] ERROR {org.wso2.transport.http.netty.contractimpl.sender.states.RequestCompleted} - Remote host closed the connection before initiating inbound response  
+[2019-02-12 15:03:33,436] WARN  {org.wso2.transport.http.netty.contractimpl.sender.TargetHandler} - Exception occurred in TargetHandler : Connection reset by peer  
+[2019-02-12 15:03:33,438] ERROR {org.wso2.transport.http.netty.contractimpl.sender.states.RequestCompleted} - Remote host closed the connection before initiating inbound response  
+[2019-02-12 15:03:33,439] ERROR {org.ballerinalang.net.http.HttpUtil} - {ballerina/http}HTTPError:Remote host closed the connection before initiating inbound response  
+[2019-02-12 15:04:01,498] WARN  {org.wso2.transport.http.netty.contractimpl.sender.TargetHandler} - Exception occurred in TargetHandler : Connection reset by peer  
+[2019-02-12 15:04:01,501] ERROR {org.wso2.transport.http.netty.contractimpl.sender.states.RequestCompleted} - Remote host closed the connection before initiating inbound response  
